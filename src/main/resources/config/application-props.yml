@@ -1,0 +1,5 @@
+project:
+  version: ${PROJECT_VERSION:0.0.1}
+db:
+  host: ${DB_HOST:mongo_db}
+  port: ${DB_PORT:27017}

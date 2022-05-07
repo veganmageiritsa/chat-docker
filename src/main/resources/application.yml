@@ -1,0 +1,10 @@
+spring:
+  profiles:
+    include: >
+      props
+  data:
+    mongodb:
+      host: ${db.host}
+      port: ${db.port}
+app:
+  version: ${project.version}
