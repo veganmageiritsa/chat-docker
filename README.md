@@ -30,4 +30,4 @@ Navigate to [Status](http://localhost:8080/actuator/health) endpoint to check th
 `http://localhost:8080/actuator/health`
 
 ### Architecture
-![spring-boot-websocket-chat-architecture](https://user-images.githubusercontent.com/44416162/167253536-f8bd7808-5002-490d-94f3-928663cba38f.jpg)
+![Spring-websockets-with-STOMP-client](https://user-images.githubusercontent.com/44416162/167255512-19591154-0c4d-4eb9-91fc-2ff6be813419.jpg)
