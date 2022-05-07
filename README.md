@@ -28,3 +28,6 @@ Otherwise, navigate to [Version](http://localhost:8080/version) endpoint
 #### Status
 Navigate to [Status](http://localhost:8080/actuator/health) endpoint to check the status of the application
 `http://localhost:8080/actuator/health`
+
+### Architecture
+![spring-boot-websocket-chat-architecture](https://user-images.githubusercontent.com/44416162/167253536-f8bd7808-5002-490d-94f3-928663cba38f.jpg)
